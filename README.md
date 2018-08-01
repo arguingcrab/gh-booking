@@ -1,4 +1,12 @@
+### php7.2 & mongodb1.4 // phpunit7 & guzzlehttp6.3
+
+
 Make sure to have `extension=php_mongodb.dll` in a `php.ini`
+
+Setup server from cmd
+```
+php -S localhost:8000
+```
 
 Run unit tests with 
 
